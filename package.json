@@ -1,0 +1,30 @@
+{
+  "name": "test-mindfire",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nilsmo46/test-mindfire.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nilsmo46/test-mindfire/issues"
+  },
+  "homepage": "https://github.com/nilsmo46/test-mindfire#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.10.5",
+    "nodemon": "^2.0.4",
+    "supertest": "^4.0.2"
+  }
+}

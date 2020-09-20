@@ -1,0 +1,20 @@
+[
+  {
+    "parking_zone": {
+      "title": "A",
+      "parking_space": []
+    }
+  },
+  {
+    "parking_zone": {
+      "title": "B",
+      "parking_space": []
+    }
+  },
+  {
+    "parking_zone": {
+      "title": "C",
+      "parking_space": []
+    }
+  }
+]

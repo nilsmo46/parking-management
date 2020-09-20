@@ -1,0 +1,77 @@
+.App {
+  text-align: center;
+}
+
+body {
+  padding: 10px;
+}
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+.card {
+  margin: 10px;
+}
+.row-margin {
+  margin-left: 32px;
+  margin-bottom: 40px;
+  width: 100%;
+}
+.right {
+  width: 40%;
+  float: right;
+  padding: 30px;
+}
+.left {
+  width: 60%;
+  float: left;
+}
+.card-subtitle {
+  text-align: center;
+}
+.button-spacing {
+  margin-left: 45px;
+}
+.card-body {
+  min-height: 150px;
+}
+.tdata {
+  border: 1px solid black;
+}
+.table-report {
+  margin-top: 20px;
+}
+.warning {
+  color: orange;
+  margin-left: 25%;
+}

@@ -1,0 +1,184 @@
+[
+  {
+    "title": "A01",
+    "currentVehicle": "",
+    "parking_zone": "A",
+    "vehicleParkings": []
+  },
+  {
+    "title": "A02",
+    "currentVehicle": "",
+    "parking_zone": "A",
+    "vehicleParkings": []
+  },
+  {
+    "title": "A03",
+    "currentVehicle": "",
+    "parking_zone": "A",
+    "vehicleParkings": []
+  },
+  {
+    "title": "A04",
+    "currentVehicle": "",
+    "parking_zone": "A",
+    "vehicleParkings": []
+  },
+  {
+    "title": "A05",
+    "currentVehicle": "",
+    "parking_zone": "A",
+    "vehicleParkings": []
+  },
+  {
+    "title": "A06",
+    "currentVehicle": "",
+    "parking_zone": "A",
+    "vehicleParkings": []
+  },
+  {
+    "title": "A07",
+    "currentVehicle": "",
+    "parking_zone": "A",
+    "vehicleParkings": []
+  },
+  {
+    "title": "A08",
+    "currentVehicle": "",
+    "parking_zone": "A",
+    "vehicleParkings": []
+  },
+  {
+    "title": "A09",
+    "currentVehicle": "",
+    "parking_zone": "A",
+    "vehicleParkings": []
+  },
+  {
+    "title": "A10",
+    "currentVehicle": "",
+    "parking_zone": "A",
+    "vehicleParkings": []
+  },
+
+  {
+    "title": "B01",
+    "currentVehicle": "",
+    "parking_zone": "B",
+    "vehicleParkings": []
+  },
+  {
+    "title": "B02",
+    "currentVehicle": "",
+    "parking_zone": "B",
+    "vehicleParkings": []
+  },
+  {
+    "title": "B03",
+    "currentVehicle": "",
+    "parking_zone": "B",
+    "vehicleParkings": []
+  },
+  {
+    "title": "B04",
+    "currentVehicle": "",
+    "parking_zone": "B",
+    "vehicleParkings": []
+  },
+  {
+    "title": "B05",
+    "currentVehicle": "",
+    "parking_zone": "B",
+    "vehicleParkings": []
+  },
+  {
+    "title": "B06",
+    "currentVehicle": "",
+    "parking_zone": "B",
+    "vehicleParkings": []
+  },
+  {
+    "title": "B07",
+    "currentVehicle": "",
+    "parking_zone": "B",
+    "vehicleParkings": []
+  },
+  {
+    "title": "B08",
+    "currentVehicle": "",
+    "parking_zone": "B",
+    "vehicleParkings": []
+  },
+  {
+    "title": "B09",
+    "currentVehicle": "",
+    "parking_zone": "B",
+    "vehicleParkings": []
+  },
+  {
+    "title": "B10",
+    "currentVehicle": "",
+    "parking_zone": "B",
+    "vehicleParkings": []
+  },
+
+  {
+    "title": "C01",
+    "currentVehicle": "",
+    "parking_zone": "C",
+    "vehicleParkings": []
+  },
+  {
+    "title": "C02",
+    "currentVehicle": "",
+    "parking_zone": "C",
+    "vehicleParkings": []
+  },
+  {
+    "title": "C03",
+    "currentVehicle": "",
+    "parking_zone": "C",
+    "vehicleParkings": []
+  },
+  {
+    "title": "C04",
+    "currentVehicle": "",
+    "parking_zone": "C",
+    "vehicleParkings": []
+  },
+  {
+    "title": "C05",
+    "currentVehicle": "",
+    "parking_zone": "C",
+    "vehicleParkings": []
+  },
+  {
+    "title": "C06",
+    "currentVehicle": "",
+    "parking_zone": "C",
+    "vehicleParkings": []
+  },
+  {
+    "title": "C07",
+    "currentVehicle": "",
+    "parking_zone": "C",
+    "vehicleParkings": []
+  },
+  {
+    "title": "C08",
+    "currentVehicle": "",
+    "parking_zone": "C",
+    "vehicleParkings": []
+  },
+  {
+    "title": "C09",
+    "currentVehicle": "",
+    "parking_zone": "C",
+    "vehicleParkings": []
+  },
+  {
+    "title": "C10",
+    "currentVehicle": "",
+    "parking_zone": "C",
+    "vehicleParkings": []
+  }
+]
