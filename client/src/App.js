@@ -19,7 +19,7 @@ export class App extends Component {
     await axios
       .get("http://localhost:4000/api/user/me", { withCredentials: true })
       .then((res) => this.setState({ me: res.data.data }))
-      .catch((err) => console.log(err));
+      .catch((err) => this.setState({ me: null }));
   };
 
   getParkingDetails = async () => {
@@ -30,7 +30,7 @@ export class App extends Component {
       .then((res) => {
         this.setState({ parkingDetails: res.data.data });
       })
-      .catch((err) => console.log(err));
+      .catch((err) => this.setState({ parkingDetails: null }));
   };
 
   componentDidMount() {

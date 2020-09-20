@@ -75,3 +75,9 @@ body {
   color: orange;
   margin-left: 25%;
 }
+.inline-logout {
+  display: inherit;
+}
+.name {
+  margin-right: 30px;
+}

@@ -106,32 +106,43 @@ const Header = ({ updateMe, me }) => {
   return (
     <div className="navbar">
       <h1>Parking Management System</h1>
-      <h2>
-        {me ? (
-          `Hi ${me.email}`
-        ) : (
-          <div>
-            <Button
-              color="success"
-              onClick={() => {
-                setModal(true);
-                setModalText("Register");
-              }}
-            >
-              Register
-            </Button>
-            <Button
-              color="link"
-              onClick={() => {
-                setModal(true);
-                setModalText("Login");
-              }}
-            >
-              Login
-            </Button>
-          </div>
-        )}
-      </h2>
+
+      {me ? (
+        <div className="inline-logout">
+          <h4 className="name">{`Hi ${me.email}`}</h4>
+          <Button
+            color="success"
+            onClick={() => {
+              Cookie.remove("token");
+              updateMe();
+            }}
+          >
+            Logout
+          </Button>
+        </div>
+      ) : (
+        <div>
+          <Button
+            color="success"
+            onClick={() => {
+              setModal(true);
+              setModalText("Register");
+            }}
+          >
+            Register
+          </Button>
+          <Button
+            color="link"
+            onClick={() => {
+              setModal(true);
+              setModalText("Login");
+            }}
+          >
+            Login
+          </Button>
+        </div>
+      )}
+
       <ModalComponent
         showModal={showModal}
         toggle={toggle}
